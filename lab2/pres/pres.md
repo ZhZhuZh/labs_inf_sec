@@ -50,9 +50,9 @@ marp: true
 
 ---
 
-росмотрим файл /etc/passwd командой cat /etc/passwd. 
+Просмотрим файл /etc/passwd командой cat /etc/passwd. 
 
-![Просматр файла /etc/passwd](image/7.jpg)
+![Просмотр файла /etc/passwd](image/7.PNG)
 
 ---
 
